@@ -17,25 +17,25 @@ export const products = [
     img: eau,
     category: "Appareils intelligents",
     name: "Distributeur d'eau électrique",
-    price: "$45.98",
+    price: "$85.98",
   },
   {
     img: support,
     category: "Accessoires technologiques",
     name: "Support de téléphone pour voiture",
-    price: "$192.23",
+    price: "$52.23",
   },
   {
     img: watch,
     category: "Appareils intelligents",
     name: "Montre intelligente",
-    price: "$12.35",
+    price: "$15.35",
   },
   {
     img: massage,
     category: "Accessoires technologiques",
     name: "Appareil de massage",
-    price: "$11.98",
+    price: "$243.98",
   },
   {
     img: laptop,
@@ -59,7 +59,7 @@ export const products = [
     img: camera,
     category: "Photographie et multimédia",
     name: "DSLR 360 view",
-    price: "$145.28",
+    price: "$345.28",
   },
 ];
 
