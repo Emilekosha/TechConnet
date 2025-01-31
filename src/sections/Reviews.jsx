@@ -56,7 +56,7 @@ const Reviews = () => {
   }, []);
 
   return (
-    <div id="testimonials" className="w-full lg:px-20 px-5 py-[80px] bg-slate-100 flex flex-col justify-center items-center gap-4">
+    <div id="temoignages" className="w-full lg:px-20 px-5 py-[80px] bg-slate-100 flex flex-col justify-center items-center gap-4">
       <h1 data-aos="zoom-in" data-aos-delay="100" className="text-blue-500 text-xl font-semibold capitalize">1400+ avis clients</h1>
       <h1 data-aos="zoom-in" data-aos-delay="200" className="text-black text-[42px] leading-[50px] font-semibold capitalize">Notre amour pour nos clients</h1>
       <div data-aos="zoom-in" data-aos-delay="200" className="w-full mt-10">

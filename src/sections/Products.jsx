@@ -18,7 +18,7 @@ const Products = () => {
 
   return (
     <div
-      id="products"
+      id="produits"
       className="w-full lg:px-20 px-5 py-[80px] bg-slate-100 flex flex-col justify-center items-center gap-6"
     >
       <h1

@@ -32,7 +32,7 @@ const Heros = () => {
 
   return (
     <div
-      id="hero"
+      id="accueil"
       className="w-full flex justify-center items-center lg:h-[700px] h-[600px]"
     >
       <Slider className="w-full" {...settings}>
